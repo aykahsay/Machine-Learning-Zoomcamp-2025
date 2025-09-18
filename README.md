@@ -2,7 +2,7 @@
 This repository contains my solutions and notes for the [Machine Learning Zoomcamp2025](https://github.com/DataTalksClub/machine-learning-zoomcamp), 
 a free online course taught by **Alexey Grigorev** and the [DataTalks.Club](https://datatalks.club/) community.
 
-## Homework, a free 4-month course on Machine Learning Engineering. Topics include linear regression, classification, decision trees, ensemble learning, neural networks, deep learning with TensorFlow/Keras, and deploying ML models with Flask, Docker, and Kubernetes.
+The free 4-month course on Machine Learning Engineering. Topics include linear regression, classification, decision trees, ensemble learning, neural networks, deep learning with TensorFlow/Keras, and deploying ML models with Flask, Docker, and Kubernetes.
 
 ## Homework 1
 
